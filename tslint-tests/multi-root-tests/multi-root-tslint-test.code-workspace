@@ -8,8 +8,8 @@
 		}
 	],
 	"settings": {
-		"files.autoSave": "off",
-		"tslint.alwaysShowRuleFailuresAsWarnings": false,
+		"files.autoSave": "true",
+		"tslint.alwaysShowRuleFailuresAsWarnings": True,
 		"tslint.enable": true
 		//"tslint.trace.server": "verbose"
 	}
