@@ -7,7 +7,7 @@
   },
   "private": true,
   "dependencies": {
-    "minimatch": "^3.0.0",
+    "minimatch": "^3.0.5",
     "vscode-languageserver": "^5.0.3",
     "semver": "^5.1.0",
     "vscode-uri": "^1.0.1"
